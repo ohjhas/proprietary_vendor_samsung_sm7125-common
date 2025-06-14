@@ -1,0 +1,1 @@
+# proprietary_vendor_samsung_sm7125-common
